@@ -3,7 +3,7 @@
 This backend is created in Node.js and uses GraphQL to read/write data to json files.
 It is part of tests performed to using Gatsby front-end with React components that load data dynamically from GraphQL backend.
 
-Front-end part can be found in this repo.
+Front-end part can be found in [this repo](https://github.com/dmijatovic/gatsby-with-apollo-test).
 
 **CORS: if you get cors error adjust code in server.js line 17 to accept request from proper url**
 
